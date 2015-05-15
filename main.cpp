@@ -8,8 +8,8 @@
  *this program. To update the rates, change the constant variables at the beginning
  *of the main function. Charge variables are the minimum charges, and rate variables
  *are the percentage (in decimal format) of your transaction that is charged.
+ *https://www.paypal.com/us/webapps/mpp/merchant-fees
  */
-
 #include <iostream>
 using namespace std;
 
